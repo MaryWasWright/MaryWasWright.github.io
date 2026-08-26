@@ -1,2 +1,5 @@
-# MaryWasWright.github.io
-The Great Pyrenees Archive public site
+# The Great Pyrenees Archive
+
+Live site: https://marywaswright.github.io/
+
+Source twin: https://github.com/MaryWasWright/great-pyrenees
