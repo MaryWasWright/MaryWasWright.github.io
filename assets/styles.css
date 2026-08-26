@@ -1,6 +1,7 @@
+/* monet-wash m4 — no drips */
 :root {
   --cream: #f3eee3;
-  --paper: rgba(255, 251, 244, 0.88);
+  --paper: rgba(255, 251, 244, 0.9);
   --ink: #1d221f;
   --muted: #5a625c;
   --gold: #b8923a;
@@ -23,7 +24,7 @@ body {
   min-height: 100vh;
   background-color: #e7efe8;
   background-image:
-    url("paint.svg"),
+    url("wash.svg?v=m4"),
     radial-gradient(900px 480px at 12% -8%, rgba(159, 207, 200, 0.55), transparent 62%),
     radial-gradient(800px 420px at 100% 0%, rgba(197, 179, 212, 0.38), transparent 60%),
     radial-gradient(700px 360px at 70% 8%, rgba(243, 217, 160, 0.4), transparent 55%),
@@ -31,33 +32,15 @@ body {
   background-size: cover, auto, auto, auto, auto;
 }
 .paint-bar {
-  height: 8px;
-  background: linear-gradient(90deg, #3d7a74 0%, #7eafc6 22%, #f3d9a0 48%, #c5b3d4 74%, #b8923a 100%);
-  opacity: 0.85;
+  height: 6px;
+  background: linear-gradient(90deg, #3d7a74, #7eafc6, #f3d9a0, #c5b3d4, #b8923a);
 }
-body::before, body::after {
-  content: "";
-  pointer-events: none;
-  position: fixed;
-  z-index: 0;
-  border-radius: 50%;
-  filter: blur(28px);
-}
-body::before {
-  width: 280px; height: 280px;
-  left: -80px; top: 120px;
-  background: rgba(126, 175, 198, 0.28);
-}
-body::after {
-  width: 320px; height: 320px;
-  right: -90px; top: -40px;
-  background: rgba(197, 179, 212, 0.26);
-}
+body::before, body::after { content: none; }
 a { color: #6b5420; }
 .wrap { width: min(1120px, calc(100% - 32px)); margin: 0 auto; position: relative; z-index: 1; }
 .site-header {
   position: sticky; top: 0; z-index: 20;
-  background: linear-gradient(180deg, rgba(247, 250, 246, 0.72), rgba(247, 246, 238, 0.5));
+  background: linear-gradient(180deg, rgba(247, 250, 246, 0.78), rgba(247, 246, 238, 0.55));
   backdrop-filter: blur(18px) saturate(1.15);
   border-bottom: 1px solid rgba(184, 146, 58, 0.22);
 }
