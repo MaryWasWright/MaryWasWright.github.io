@@ -9,11 +9,28 @@
 <body>
   <header class="site-header"><div class="wrap header-inner">
     <a class="brand" href="index.html"><strong>The Great Pyrenees Archive</strong><span>History · Sources · Guardian Work</span></a>
-    <nav><a href="index.html">Home</a><a href="history.html">History</a><a class="active" href="archive.html">Article Catalog</a><a href="training.html">Guardian Training</a><a href="about.html">About</a></nav>
+    <nav>
+      <a href="index.html">Home</a><a href="history.html">History</a>
+      <a class="active" href="archive.html">Catalog</a><a href="training.html">Training</a>
+      <a href="care.html">Care</a><a href="living.html">Living With</a><a href="about.html">About</a>
+    </nav>
   </div></header>
   <main class="wrap">
-    <section class="hero"><p class="kicker">Living catalog</p><h1>If it is worth reading about the Pyr, it belongs on this shelf.</h1><p class="lede">We index sources with original summaries and clean outbound links. The list is meant to grow.</p></section>
-    <section class="section"><div class="filters"><input data-search type="search" placeholder="Search title, source, or summary"><select data-topic><option value="">All topics</option></select><div data-count></div></div><div data-article-list></div></section>
+    <section class="hero">
+      <p class="kicker">Living catalog</p>
+      <h1>If it is worth reading about the Pyr, it belongs on this shelf.</h1>
+      <p class="lede">We do not copy other people’s articles. We index them: title, source, topic, a short original summary, and a clean link out.</p>
+    </section>
+    <section class="section">
+      <div class="filters">
+        <input data-search type="search" placeholder="Search title, source, or summary">
+        <select data-topic><option value="">All topics</option></select>
+        <div class="meta" data-count></div>
+      </div>
+      <div data-article-list></div>
+    </section>
   </main>
+  <footer><div class="wrap">Add a source later by appending an object to data/articles.json.</div></footer>
   <script src="assets/site.js"></script>
-</body></html>
+</body>
+</html>
