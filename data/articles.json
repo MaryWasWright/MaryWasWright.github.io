@@ -1,27 +1,202 @@
 [
-  {"title":"Great Pyrenees History: Where the Breed Originated","source":"American Kennel Club","url":"https://www.akc.org/expert-advice/dog-breeds/great-pyrenees-history/","year":"2023","topic":"History","summary":"AKC overview of Asian-origin livestock guardians, westward migration into the Pyrenees, royal-court fashion under Louis XIV, and the later companion role."},
-  {"title":"Pyrenean Mountain Dog","source":"Wikipedia","url":"https://en.wikipedia.org/wiki/Pyrenean_Mountain_Dog","year":"2026","topic":"History","summary":"Encyclopedia entry covering names (Patou / Pyrenean Mountain Dog / Great Pyrenees), court history, near-extinction, and the 1930s North American revival."},
-  {"title":"Breed History","source":"Sierra Pacific Great Pyrenees Club","url":"https://spgpc.org/breed-history/","year":"2022","topic":"History","summary":"Club history on mountain isolation, Basque shepherd use, 1407 writings about Lourdes, and royal adoption in the 17th century."},
-  {"title":"Great Pyrenees","source":"Encyclopaedia Britannica","url":"https://www.britannica.com/animal/Great-Pyrenees","year":"1998","topic":"History","summary":"Concise profile: mountain flock work against wolves and bears, French court favorite, carting and wartime roles, size and coat."},
-  {"title":"About the Breed","source":"Great Pyrenees Rescue","url":"https://greatpyrrescue.org/about-the-breed","year":"","topic":"History","summary":"Rescue-oriented portrait emphasizing independent field work, weatherproof double coat, and guardian temperament."},
-  {"title":"Great Pyrenees History","source":"Heart of Ohio Great Pyrenees Club","url":"https://hogpc.org/great-pyrenees-history","year":"","topic":"History","summary":"Includes Lafayette's 1824 gift of two males to J.S. Skinner and later working uses: packing, sledding, and predator control."},
-  {"title":"Farm Guardians: The Great Pyrenees","source":"Grit","url":"https://www.grit.com/animals/pets/great-pyrenees-ze0z1702zfis/","year":"2017","topic":"Livestock Guardian","summary":"Patou portrait covering medieval transhumance, chateau guarding, and the 1920s French rebuild after World War I."},
-  {"title":"Livestock Guardian Dogs","source":"Great Pyrenees Club of America","url":"https://greatpyrenees.club/livestock-guardian-dogs/","year":"2022","topic":"Livestock Guardian","summary":"Parent-club guidance: working Pyr is not a house pet, maturity around 18 months, farm versus range, either sex can work."},
-  {"title":"Raising an Effective LGD","source":"Kansas / Douglas County Conservation District","url":"https://www.douglasccd.com/uploads/2/2/6/1/22612334/raising_an_effective_lgd_-_kansas.pdf","year":"2020","topic":"Training","summary":"Working-bred pups, staged pen sizes, limited people-rewards away from stock, disruption versus confrontation."},
-  {"title":"Livestock Guardian Dogs: An Overview","source":"Texas A&M AgriLife","url":"https://mytexas.ag.tamu.edu/publications/livestock-guardian-dogs/","year":"2026","topic":"Training","summary":"Texas-focused: bond by 16 weeks, bonding pens, limited human contact, basic come/stay/no, coat-heat notes."},
-  {"title":"How to Train a Great Pyrenees","source":"wikiHow Pet","url":"https://www.wikihow.pet/Train-a-Great-Pyrenees","year":"2021","topic":"Training","summary":"Early livestock exposure, leashed first meetings, supervised introductions, companion versus guardian raising."},
-  {"title":"USDA: Livestock Guarding Dogs","source":"U.S. Department of Agriculture","url":"https://www.govinfo.gov/content/pkg/GOVPUB-A-PURL-LPS2240/pdf/GOVPUB-A-PURL-LPS2240.pdf","year":"","topic":"Training","summary":"Classic bulletin on bonding pups with sheep at 7-8 weeks and the difference between guardian and herding work."},
-  {"title":"Great Pyrenees Official Standard","source":"Great Pyrenees Club of America","url":"https://greatpyrenees.club/great-pyrenees-official-standard/","year":"2022","topic":"Breed Standard","summary":"Elegance plus mountain utility, white or principally white coat, rolling gait, quiet independent temperament."},
-  {"title":"Great Pyrenees Club of America","source":"GPCA","url":"https://greatpyrenees.club/","year":"2021","topic":"Clubs & Rescue","summary":"AKC parent club since 1935: standard stewardship, Bulletin, breeder referral, rescue network."},
-  {"title":"About Great Pyrenees","source":"Indy Great Pyrenees Rescue","url":"https://igpr.org/about-great-pyrenees/","year":"","topic":"Clubs & Rescue","summary":"French clubs of 1907, postwar restoration, 1927 standard, AKC recognition in 1933."},
-  {"title":"A Pyr for Me?","source":"National Great Pyrenees Rescue","url":"https://nationalpyr.org/pyr-for-me/","year":"2025","topic":"Living With","summary":"Companion reality: barking, shedding, need for company, and why a lonely backyard Pyr becomes an escape artist."},
-  {"title":"Common Pyr Problems","source":"National Great Pyrenees Rescue","url":"https://nationalpyr.org/pyr-problems/","year":"2018","topic":"Living With","summary":"Rescue-home issues: introductions, growling as a warning, separation anxiety, and not punishing the early-warning system."},
-  {"title":"Considerations","source":"Indy Great Pyrenees Rescue","url":"https://igpr.org/adopt/considerations/","year":"2026","topic":"Living With","summary":"Barking as the job, coming to look at the alarm, and the night patrol bark that is not nothing."},
-  {"title":"How to Adopt","source":"Great Pyrenees Rescue Montana","url":"https://gprmt.org/pages/how-to-adopt","year":"","topic":"Clubs & Rescue","summary":"Myths about training away all barking, fencing, and New Hope Pyrs education links."},
-  {"title":"National Great Pyrenees Rescue contacts","source":"National Great Pyrenees Rescue","url":"https://nationalpyr.org/contacts/","year":"2022","topic":"Clubs & Rescue","summary":"State-by-state rescue list and the shelter/surrender hotline reserved for Pyrs in need."},
-  {"title":"Great Pyrenees Dog Breed Health and Care","source":"PetMD","url":"https://www.petmd.com/dog/breeds/great-pyrenees","year":"2022","topic":"Health & Care","summary":"Dysplasia, chondrodysplasia screening, GDV precautions: small meals, no hard exercise around food, gastropexy conversation."},
-  {"title":"6 Great Pyrenees Health Problems to Watch For","source":"Hepper","url":"https://articles.hepper.com/great-pyrenees-health-problems-vet-answer/","year":"2025","topic":"Health & Care","summary":"Vet-written overview of joint dysplasia, Addison's, and bloat as a surgical emergency."},
-  {"title":"Great Pyrenees Lifespan","source":"RealPetAge","url":"https://realpetage.com/great-pyrenees-lifespan/","year":"2026","topic":"Health & Care","summary":"Lifespan threats: GDV, osteosarcoma, hip dysplasia, degenerative myelopathy; lean body condition and double dewclaws."},
-  {"title":"Pyr Facts","source":"Pyradigm Great Pyrenees","url":"https://www.pyradigmgreatpyrenees.com/pyr-facts","year":"","topic":"Health & Care","summary":"Do not remove hind double dewclaws; notes on osteosarcoma, PennHIP, anesthesia sensitivity, and typical lifespan."},
-  {"title":"Does a Pyr Always Need a Pyr as a Peer?","source":"Great Pyrenees Club of America","url":"https://greatpyrenees.club/does-a-pyr-always-need-a-pyr-as-a-peer/","year":"2022","topic":"Living With","summary":"Compatibility beats the idea that every Pyr must have another Pyr. Temperament first."}
+  {
+    "title": "Great Pyrenees History: Where the Breed Originated",
+    "source": "American Kennel Club",
+    "url": "https://www.akc.org/expert-advice/dog-breeds/great-pyrenees-history/",
+    "year": "2023",
+    "topic": "History",
+    "summary": "AKC overview of Asian-origin livestock guardians, westward migration into the Pyrenees, royal-court fashion under Louis XIV, and the later companion role."
+  },
+  {
+    "title": "Pyrenean Mountain Dog",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Pyrenean_Mountain_Dog",
+    "year": "2026",
+    "topic": "History",
+    "summary": "Encyclopedia entry covering names (Patou / Pyrenean Mountain Dog / Great Pyrenees), court history, near-extinction, and the 1930s North American revival."
+  },
+  {
+    "title": "Breed History",
+    "source": "Sierra Pacific Great Pyrenees Club",
+    "url": "https://spgpc.org/breed-history/",
+    "year": "2022",
+    "topic": "History",
+    "summary": "Club history on mountain isolation, Basque shepherd use, 1407 writings about Lourdes, and royal adoption in the 17th century."
+  },
+  {
+    "title": "Great Pyrenees",
+    "source": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/animal/Great-Pyrenees",
+    "year": "1998",
+    "topic": "History",
+    "summary": "Concise profile: mountain flock work against wolves and bears, French court favorite, carting and wartime roles, size and coat."
+  },
+  {
+    "title": "About the Breed",
+    "source": "Great Pyrenees Rescue",
+    "url": "https://greatpyrrescue.org/about-the-breed",
+    "year": "",
+    "topic": "History",
+    "summary": "Rescue-oriented portrait emphasizing independent field work, weatherproof double coat, and guardian temperament."
+  },
+  {
+    "title": "Great Pyrenees History",
+    "source": "Heart of Ohio Great Pyrenees Club",
+    "url": "https://hogpc.org/great-pyrenees-history",
+    "year": "",
+    "topic": "History",
+    "summary": "Includes Lafayette's 1824 gift of two males to J.S. Skinner and later working uses: packing, sledding, and predator control."
+  },
+  {
+    "title": "Farm Guardians: The Great Pyrenees",
+    "source": "Grit",
+    "url": "https://www.grit.com/animals/pets/great-pyrenees-ze0z1702zfis/",
+    "year": "2017",
+    "topic": "Livestock Guardian",
+    "summary": "Patou portrait covering medieval transhumance, chateau guarding, and the 1920s French rebuild after World War I."
+  },
+  {
+    "title": "Livestock Guardian Dogs",
+    "source": "Great Pyrenees Club of America",
+    "url": "https://greatpyrenees.club/livestock-guardian-dogs/",
+    "year": "2022",
+    "topic": "Livestock Guardian",
+    "summary": "Parent-club guidance: working Pyr is not a house pet, maturity around 18 months, farm versus range, either sex can work."
+  },
+  {
+    "title": "Raising an Effective LGD",
+    "source": "Kansas / Douglas County Conservation District",
+    "url": "https://www.douglasccd.com/uploads/2/2/6/1/22612334/raising_an_effective_lgd_-_kansas.pdf",
+    "year": "2020",
+    "topic": "Training",
+    "summary": "Working-bred pups, staged pen sizes, limited people-rewards away from stock, disruption versus confrontation."
+  },
+  {
+    "title": "Livestock Guardian Dogs: An Overview",
+    "source": "Texas A&M AgriLife",
+    "url": "https://mytexas.ag.tamu.edu/publications/livestock-guardian-dogs/",
+    "year": "2026",
+    "topic": "Training",
+    "summary": "Texas-focused: bond by 16 weeks, bonding pens, limited human contact, basic come/stay/no, coat-heat notes."
+  },
+  {
+    "title": "How to Train a Great Pyrenees",
+    "source": "wikiHow Pet",
+    "url": "https://www.wikihow.pet/Train-a-Great-Pyrenees",
+    "year": "2021",
+    "topic": "Training",
+    "summary": "Early livestock exposure, leashed first meetings, supervised introductions, companion versus guardian raising."
+  },
+  {
+    "title": "USDA: Livestock Guarding Dogs",
+    "source": "U.S. Department of Agriculture",
+    "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A-PURL-LPS2240/pdf/GOVPUB-A-PURL-LPS2240.pdf",
+    "year": "",
+    "topic": "Training",
+    "summary": "Classic bulletin on bonding pups with sheep at 7-8 weeks and the difference between guardian and herding work."
+  },
+  {
+    "title": "Great Pyrenees Official Standard",
+    "source": "Great Pyrenees Club of America",
+    "url": "https://greatpyrenees.club/great-pyrenees-official-standard/",
+    "year": "2022",
+    "topic": "Breed Standard",
+    "summary": "Elegance plus mountain utility, white or principally white coat, rolling gait, quiet independent temperament."
+  },
+  {
+    "title": "Great Pyrenees Club of America",
+    "source": "GPCA",
+    "url": "https://greatpyrenees.club/",
+    "year": "2021",
+    "topic": "Clubs & Rescue",
+    "summary": "AKC parent club since 1935: standard stewardship, Bulletin, breeder referral, rescue network."
+  },
+  {
+    "title": "About Great Pyrenees",
+    "source": "Indy Great Pyrenees Rescue",
+    "url": "https://igpr.org/about-great-pyrenees/",
+    "year": "",
+    "topic": "Clubs & Rescue",
+    "summary": "French clubs of 1907, postwar restoration, 1927 standard, AKC recognition in 1933."
+  },
+  {
+    "title": "A Pyr for Me?",
+    "source": "National Great Pyrenees Rescue",
+    "url": "https://nationalpyr.org/pyr-for-me/",
+    "year": "2025",
+    "topic": "Living With",
+    "summary": "Companion reality: barking, shedding, need for company, and why a lonely backyard Pyr becomes an escape artist."
+  },
+  {
+    "title": "Common Pyr Problems",
+    "source": "National Great Pyrenees Rescue",
+    "url": "https://nationalpyr.org/pyr-problems/",
+    "year": "2018",
+    "topic": "Living With",
+    "summary": "Rescue-home issues: introductions, growling as a warning, separation anxiety, and not punishing the early-warning system."
+  },
+  {
+    "title": "Considerations",
+    "source": "Indy Great Pyrenees Rescue",
+    "url": "https://igpr.org/adopt/considerations/",
+    "year": "2026",
+    "topic": "Living With",
+    "summary": "Barking as the job, coming to look at the alarm, and the night patrol bark that is not nothing."
+  },
+  {
+    "title": "How to Adopt",
+    "source": "Great Pyrenees Rescue Montana",
+    "url": "https://gprmt.org/pages/how-to-adopt",
+    "year": "",
+    "topic": "Clubs & Rescue",
+    "summary": "Myths about training away all barking, fencing, and New Hope Pyrs education links."
+  },
+  {
+    "title": "National Great Pyrenees Rescue contacts",
+    "source": "National Great Pyrenees Rescue",
+    "url": "https://nationalpyr.org/contacts/",
+    "year": "2022",
+    "topic": "Clubs & Rescue",
+    "summary": "State-by-state rescue list and the shelter/surrender hotline reserved for Pyrs in need."
+  },
+  {
+    "title": "Great Pyrenees Dog Breed Health and Care",
+    "source": "PetMD",
+    "url": "https://www.petmd.com/dog/breeds/great-pyrenees",
+    "year": "2022",
+    "topic": "Health & Care",
+    "summary": "Dysplasia, chondrodysplasia screening, GDV precautions: small meals, no hard exercise around food, gastropexy conversation."
+  },
+  {
+    "title": "6 Great Pyrenees Health Problems to Watch For",
+    "source": "Hepper",
+    "url": "https://articles.hepper.com/great-pyrenees-health-problems-vet-answer/",
+    "year": "2025",
+    "topic": "Health & Care",
+    "summary": "Vet-written overview of joint dysplasia, Addison's, and bloat as a surgical emergency."
+  },
+  {
+    "title": "Great Pyrenees Lifespan",
+    "source": "RealPetAge",
+    "url": "https://realpetage.com/great-pyrenees-lifespan/",
+    "year": "2026",
+    "topic": "Health & Care",
+    "summary": "Lifespan threats: GDV, osteosarcoma, hip dysplasia, degenerative myelopathy; lean body condition and double dewclaws."
+  },
+  {
+    "title": "Pyr Facts",
+    "source": "Pyradigm Great Pyrenees",
+    "url": "https://www.pyradigmgreatpyrenees.com/pyr-facts",
+    "year": "",
+    "topic": "Health & Care",
+    "summary": "Do not remove hind double dewclaws; notes on osteosarcoma, PennHIP, anesthesia sensitivity, and typical lifespan."
+  },
+  {
+    "title": "Does a Pyr Always Need a Pyr as a Peer?",
+    "source": "Great Pyrenees Club of America",
+    "url": "https://greatpyrenees.club/does-a-pyr-always-need-a-pyr-as-a-peer/",
+    "year": "2022",
+    "topic": "Living With",
+    "summary": "Compatibility beats the idea that every Pyr must have another Pyr. Temperament first."
+  }
 ]

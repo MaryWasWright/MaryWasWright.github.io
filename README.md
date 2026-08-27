@@ -1,5 +1,1 @@
-# The Great Pyrenees Archive
-
-Live site: https://marywaswright.github.io/
-
-Source twin: https://github.com/MaryWasWright/great-pyrenees
+Great Pyrenees and Beyond — Southwest Guardian archive. Static GitHub Pages site.
