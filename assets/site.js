@@ -31,4 +31,14 @@ async function loadArticles() {
   topic.addEventListener("change", render);
   render();
 }
-document.addEventListener("DOMContentLoaded", loadArticles);
+document.addEventListener("DOMContentLoaded", () => {
+  loadArticles();
+  const btn = document.querySelector(".nav-toggle");
+  const nav = document.querySelector("nav.paint-nav");
+  if (btn && nav) {
+    btn.addEventListener("click", () => {
+      const open = nav.classList.toggle("is-open");
+      btn.setAttribute("aria-expanded", open ? "true" : "false");
+    });
+  }
+});
