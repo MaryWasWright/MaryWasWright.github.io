@@ -176,9 +176,10 @@ img { max-width: 100%; }
   .desk-nav { display: flex; }
   .menu-btn { display: none; }
   .grid-3 { grid-template-columns: repeat(3, 1fr); }
-  .hero-copy { justify-content: center; padding: 8rem 0 6rem; }
-  .hero-copy h1 { font-size: 4.5rem; max-width: 42rem; }
-  .hero-copy .lede { font-size: 1.125rem; max-width: 32rem; }
+  /* Desktop hero: copy sits in the upper sky, clear of the dog's head (lower left of the painting). */
+  .hero-copy { justify-content: flex-start; padding: clamp(5.5rem, 10vh, 8rem) 0 6rem; }
+  .hero-copy h1 { font-size: clamp(3.15rem, 7vh, 4.5rem); max-width: 42rem; }
+  .hero-copy .lede { font-size: 1.125rem; max-width: 40rem; }
   .lede-rest { display: block; }
 }
 

@@ -81,7 +81,7 @@
     }).join("");
   }
 
-  fetch("data/articles.json?v=beyond1")
+  fetch("data/articles.json?v=beyond6")
     .then(function (r) { return r.json(); })
     .then(function (data) {
       articles = data;
